@@ -35,5 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
-### Apliction.properties ###
- src/main/resources/application.properties
+
+### History ###
+.history/
+
+### Docker ###
+docker/
